@@ -23,13 +23,6 @@ I'm an aspiring **Data Scientist** with some pretty cool experiences in the fiel
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 
-## 🌟 Interests & Hobbies
-- 🏓 **Ping Pong** 
-- 🏀 **Basketball** 
-- ✈️ **Travel** 
-- 🌌 **Astrophysics** 
-
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ansari-775529270/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ibrahim.ansr/)
