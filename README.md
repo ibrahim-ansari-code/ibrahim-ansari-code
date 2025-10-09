@@ -5,7 +5,7 @@ Data and AI
 
 ## Main stuff
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=ibrahim-ansari&color=brightgreen&style=flat-square&label=Profile+Views)
 
 ## Let's talk
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ansari-775529270/)
