@@ -4,7 +4,9 @@
 Data and AI
 
 ## Main stuff
-
+https://ibrahimansaricode.vercel.app/
+https://journal.stemfellowship.org/doi/full/10.17975/sfj-2024-004
+https://journal.stemfellowship.org/doi/full/10.17975/sfj-2025-001
 
 ## Let's talk
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ansari-775529270/)
