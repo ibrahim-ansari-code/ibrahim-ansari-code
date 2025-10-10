@@ -4,8 +4,6 @@
 Data and AI
 
 ## Main stuff
-https://ibrahimansaricode.vercel.app/
-
 https://journal.stemfellowship.org/doi/full/10.17975/sfj-2024-004
 
 https://journal.stemfellowship.org/doi/full/10.17975/sfj-2025-001
