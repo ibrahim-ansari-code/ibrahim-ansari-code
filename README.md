@@ -1,8 +1,5 @@
 # 👨‍💻
 
-## Main focus
-Data and AI
-
 ## Main stuff
 https://ibrahimansari-five.vercel.app/
 
