@@ -1,5 +1,3 @@
-# 👨‍💻
-
 ## Main stuff
 https://ibrahimansari-five.vercel.app/
 
