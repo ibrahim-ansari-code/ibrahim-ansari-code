@@ -1,7 +1,7 @@
 ## Main stuff
 [ibrahimansari.ca](https://ibrahimansari.ca/)
 
-https://www.letthemhit.ca/
+[letthemhit.ca](https://www.letthemhit.ca/)
 
 https://journal.stemfellowship.org/doi/full/10.17975/sfj-2024-004
 
