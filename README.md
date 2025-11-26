@@ -9,7 +9,6 @@ I'm Ibrahim, here's my main stuff:
 ## Check these out:
 [ibrahimansari.ca](https://ibrahimansari.ca/)
 
-[letthemhit.ca](https://www.letthemhit.ca/)
 
 ## Let's talk
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ansari-775529270/)
