@@ -14,3 +14,6 @@ I'm Ibrahim, here's my main stuff:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ansari-775529270/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ibrahim.ansari4161@gmail.com)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/IbrahimAns20615)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ibrahim-ansari-code&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
