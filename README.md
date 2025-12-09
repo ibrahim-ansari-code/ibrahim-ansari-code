@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/🌐%20Website-ibrahimansari.ca-blue?style=for-the-badge)](https://ibrahimansari.ca)
+[![Website](https://img.shields.io/badge/ibrahimansari.ca-red?style=for-the-badge)](https://ibrahimansari.ca)
 - @UWaterloo Eng
 - SWE at <a href="https://brikli.com/" target="_blank" rel="noopener noreferrer">Brikli</a>
 - Co Founded Tablingos (backed by Microsoft)
